@@ -76,6 +76,9 @@
     background-image: url("../img/index-img/bg1.jpg");
     background-repeat: no-repeat;
 }
+.part1-4 i{
+    width: 100%;
+}
 .part1-4 h1{
     margin-top: 50px;
     line-height: 0.1;
@@ -118,6 +121,7 @@
 }
 .part1-5 p{
     width: 450px;
+    height: 100%;
     font-size: 12px;
     position: relative;
     top: 40px;
@@ -130,6 +134,7 @@
 .part1-6{
     height: 500px;
     width: 100%;
+    margin: 100px;
    align-items: center;
    padding-bottom: 50px;
 }
@@ -151,6 +156,7 @@
     color: white;
     background-color: #000;
 }
+
 .circle{
     display: flex;
     border-radius: 50%;
@@ -168,7 +174,8 @@
 .txt{
     align-self: center;
     padding-top: 50px;
-    width: 450px;
+    max-width: 450px;
+    width: 100%;
     text-align: center;
     margin: auto;
 
