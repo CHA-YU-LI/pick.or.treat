@@ -21,6 +21,7 @@
     line-height: 3;
 }
 .part1-1 img{
+    max-width: 300px;
     padding: 20px;
 }
 .part1-1 p{
