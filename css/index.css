@@ -25,7 +25,8 @@
     padding: 20px;
 }
 .part1-1 p{
-    width: 450px;
+    max-width: 450px;
+    width: 100%;
     position: relative;
     top: 10px;
 }
@@ -40,6 +41,7 @@
 }
 .part1-2 p{
     width: 450px;
+    width: 100%;
     position: relative;
     top: 10px;
 }
@@ -57,6 +59,7 @@
 }
 .part1-3 p{
     width: 450px;
+    width: 100%;
     /* position: relative;
     top: 10px; */
 }
@@ -114,7 +117,7 @@
 }
 .part1-5 p{
     width: 450px;
-    font-size: 8px;
+    font-size: 12px;
     position: relative;
     top: 40px;
     line-height: 2;
