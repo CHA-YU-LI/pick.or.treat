@@ -101,7 +101,7 @@
 @media screen and (min-width:599px){
     .top{
         position: relative;
-        right: 130px;
+        right: 140px;
     }
     
 }
@@ -120,7 +120,6 @@
     /* letter-spacing:2px */
 }
 .part1-5{
-
    display: inline;
     background-color: #000;
     height: 500px;
