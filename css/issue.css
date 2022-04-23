@@ -1,0 +1,41 @@
+*{
+    font-family: 'Noto Serif TC', serif;
+}
+.part1{
+    line-height: 2;
+    color: #fff;
+    background-color: #000;
+    background-image: url("../img/issue-img/1.jpg");
+    background-repeat: no-repeat;
+   
+  }
+
+.aa{
+    border-right: 0.1px #000 solid;
+    border-top: 0px;
+    border-bottom: 0px;
+}
+.navhover:hover{
+    background: #ccc;
+}
+.navbar-brand{
+    padding-left: 10px;
+}
+.footer{
+    display: flex;
+    height: 200px;
+    background-color: #000;
+    color: #fff;
+    justify-content: right;
+    align-items: flex-end;
+    padding: 20px;
+    padding-bottom: 10px;
+    text-align: right;
+
+}
+.footer img{
+    max-width: 50px;
+    max-height: 50px;
+    margin: 10px;
+}
+  
